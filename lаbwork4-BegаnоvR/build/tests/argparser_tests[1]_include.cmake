@@ -1,0 +1,5 @@
+if(EXISTS "/Users/beganovruslan/github-classroom/is-itmo-c-24/lаbwork4-BegаnоvR/build/tests/argparser_tests[1]_tests.cmake")
+  include("/Users/beganovruslan/github-classroom/is-itmo-c-24/lаbwork4-BegаnоvR/build/tests/argparser_tests[1]_tests.cmake")
+else()
+  add_test(argparser_tests_NOT_BUILT argparser_tests_NOT_BUILT)
+endif()
