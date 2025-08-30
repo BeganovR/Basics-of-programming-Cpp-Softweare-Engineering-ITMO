@@ -1,2 +1,2 @@
-# Basics-of-programming-C-Softweare-Engineering-ITMO-1
+# Basics-of-programming-Cpp-Softweare-Engineering-ITMO
 В данном репозитории находятся мои работы по дисциплине "Основы программирования C++" первого курса.
